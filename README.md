@@ -6,7 +6,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Código com G
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
 
-## 💻 Links Uteis
+## 💻 Links Úteis
 - [Git](https://git-scm.com) 
 - [GitHub](https://github.com)
 
